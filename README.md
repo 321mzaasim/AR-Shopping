@@ -20,7 +20,7 @@ This app bring's shop to your home, through AR and we can select any dress from 
 ## Demos
 
 <p align="center">
-  <img src="https://github.com/321mzaasim/AR-Shopping/blob/master/Animated%20GIF-downsized_large.gif" width="40%">
+  <img src="https://github.com/321mzaasim/AR-Shopping/blob/master/Animated%20GIF-downsized_large.gif" width="30%">
 </p>
 
 Youtube Link-https://youtu.be/ZfD8rP77d2Q
